@@ -1,0 +1,4 @@
+.catagory{
+    display: flex;
+    justify-content: space-around;
+}
